@@ -429,7 +429,7 @@ textarea {
       rgba(46, 47, 66, 0.7),
       rgba(46, 47, 66, 0.7)
     ),
-    url(../images/people-office_1x.jpg);
+    url(../images/people-office.jpg);
 }
 
 @media (min-resolution: 2x) {
@@ -439,7 +439,7 @@ textarea {
         rgba(46, 47, 66, 0.7),
         rgba(46, 47, 66, 0.7)
       ),
-      url(../images/people-office.jpg);
+      url(../images/people-office_1x.jpg);
   }
 }
 
