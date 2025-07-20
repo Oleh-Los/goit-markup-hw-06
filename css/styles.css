@@ -391,7 +391,7 @@ textarea {
 .mobile-menu-close:focus {
   background-color: #404bbf;
   border-color: transparent;
-  border: none;
+  border: transparent;
 }
 
 .mobile-btn-icons {
