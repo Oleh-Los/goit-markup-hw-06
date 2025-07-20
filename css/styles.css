@@ -1105,7 +1105,7 @@ textarea {
 .modal-close-btn:focus {
   background-color: #404bbf;
   border-color: transparent;
-  border: none;
+  border: transparent;
 }
 
 .modal-text {
